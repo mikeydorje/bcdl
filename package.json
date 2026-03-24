@@ -1,0 +1,13 @@
+{
+  "name": "bandcamp-codes-worker",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "wrangler dev",
+    "deploy": "wrangler deploy",
+    "import": "node scripts/import-codes.js"
+  },
+  "devDependencies": {
+    "wrangler": "latest"
+  }
+}
