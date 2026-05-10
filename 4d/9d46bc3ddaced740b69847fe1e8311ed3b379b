@@ -1,0 +1,51 @@
+src/worker.js
+  57d63f4d9bb6ab72 6-7,9-23,63-69,91-93,95-97,99-101,103-135
+  9ea16cf409cd2ebc 5,24,26-40,42-57,59-60,62,82-87,136-151
+  s_2e81892e8c5517::t_8c701b219a5bc1 25
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.4",
+  "base_commit_sha": "4d9d46bc3ddaced740b69847fe1e8311ed3b379b",
+  "prompts": {
+    "57d63f4d9bb6ab72": {
+      "agent_id": {
+        "tool": "github-copilot",
+        "id": "31202fa2-c929-4a68-9857-7df21c08df4d",
+        "model": "unknown"
+      },
+      "human_author": "Mikey Dorje <mikeydorje@gmail.com>",
+      "total_additions": 207,
+      "total_deletions": 46,
+      "accepted_lines": 122,
+      "overriden_lines": 4
+    },
+    "9ea16cf409cd2ebc": {
+      "agent_id": {
+        "tool": "github-copilot",
+        "id": "7261efc2-ed2b-4f30-9e94-f542f1d3d9ef",
+        "model": "unknown"
+      },
+      "human_author": "Mikey Dorje <mikeydorje@gmail.com>",
+      "total_additions": 549,
+      "total_deletions": 130,
+      "accepted_lines": 60,
+      "overriden_lines": 0
+    }
+  },
+  "humans": {
+    "h_b2f6efe2daa9cd": {
+      "author": "Mikey Dorje"
+    }
+  },
+  "sessions": {
+    "s_2e81892e8c5517": {
+      "agent_id": {
+        "tool": "github-copilot",
+        "id": "c37cf7b9-890c-4c6f-80cf-3ffcfa1fbfb3",
+        "model": "unknown"
+      },
+      "human_author": "Mikey Dorje <mikeydorje@gmail.com>"
+    }
+  }
+}
